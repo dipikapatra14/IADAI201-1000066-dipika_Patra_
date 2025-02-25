@@ -6,8 +6,9 @@ This project analyzes **Instagram engagement metrics**, including **reach source
 
 ## 📂 Files Included  
 - `Instagram_data_cleaned.csv` – The **cleaned dataset** used for analysis.  
-- `Instagram_Dashboard.twbx` – **Tableau dashboard** visualizing engagement trends.  
-- `Storyboard_Slides.pdf` – **Storyboard presentation** summarizing insights.  
+- `Tableau Dashboard.twbx` – **Tableau dashboard** visualizing engagement trends.  
+- `Tableau Storyboard.twbx` – The **Tableau storyboard** presenting insights in a structured format.  
+- `Storyboard(pdf).pdf` – **PDF version of the storyboard** summarizing key findings.  
 
 ## 🚀 Key Insights  
 ✅ **Hashtags & Explore drive 75% of total reach**, making them crucial for visibility.  
@@ -16,20 +17,17 @@ This project analyzes **Instagram engagement metrics**, including **reach source
 ✅ **High-engagement content types (e.g., videos) tend to convert more profile visits into follows.**  
 
 ## 📊 How to Use the Dashboard  
-1️⃣ **Download** the `Taashboard.twbx` file.  
+1️⃣ **Download** the `Tableau Dashboard.twbx` file.  
 2️⃣ **Open it in Tableau Public** (or Tableau Desktop if available).  
 3️⃣ **Explore the dashboard** using interactive filters (e.g., hashtags, reach sources).  
 4️⃣ **Analyze trends** and derive insights to improve Instagram strategies.  
 
+these are my tableau links-
+dashbaord- https://public.tableau.com/app/profile/dipika.patra4043/viz/Book1_17404733569610/Dashboard1?publish=yes
+Storybaord- https://public.tableau.com/app/profile/dipika.patra4043/viz/Book1_17404733569610/Storyboard?publish=yes
+
 ## 🔗 GitHub Repository  
 [Insert Your GitHub Repo Link Here]  
-
----
-
-### **🚀 Why is this README Effective?**  
-✔ **Clear & Concise** → Explains the project in a structured way.  
-✔ **Actionable** → Provides insights **and** tells users **how to interact** with the dashboard.  
-✔ **Professional** → Looks organized, making it easier for reviewers to understand.  
 
 ---
 
