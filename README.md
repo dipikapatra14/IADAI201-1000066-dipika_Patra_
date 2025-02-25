@@ -27,8 +27,7 @@ dashbaord- https://public.tableau.com/app/profile/dipika.patra4043/viz/Book1_174
 Storybaord- https://public.tableau.com/app/profile/dipika.patra4043/viz/Book1_17404733569610/Storyboard?publish=yes
 
 ## 🔗 GitHub Repository  
-[Insert Your GitHub Repo Link Here]  
-
+(https://github.com/dipikapatra14/IADAI201-1000066-dipika_Patra_)
 ---
 
 
